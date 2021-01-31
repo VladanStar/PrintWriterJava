@@ -1,0 +1,2 @@
+Upisana jedna linija u fajlu
+Dodali smo jos jednu liniju u file
