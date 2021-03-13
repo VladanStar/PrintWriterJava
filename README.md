@@ -1,2 +1,2 @@
 # PrintWriterJava
-Napraviti program koji upisuje u tekstualni fajl sledeći tekst: Ovo je jedna linija u fajlu. Napraviti program tako da jednom upiše ovaj tekst u fajl, a drugi put da na postojeći tekst doda isti tekst još jednom kao novu liniju teksta ispod.
+Create a program that writes the following text to a text file: This is one line in the file. Make the program write this text to a file once, and add the same text to the existing text another time as a new line of text below.
